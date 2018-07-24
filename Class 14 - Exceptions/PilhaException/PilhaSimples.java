@@ -20,11 +20,11 @@ public class PilhaSimples {
 		return item;
 	}
 	
-	int getTopo() {
+	public int getTopo() {
 		return this.topo;
 	}
 	
-	int getTamanhoMax() {
+	public int getTamanhoMax() {
 		if (itens != null)
 			return this.itens.length;
 		else
