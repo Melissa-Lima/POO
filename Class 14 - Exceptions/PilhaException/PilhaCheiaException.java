@@ -9,12 +9,6 @@ public class PilhaCheiaException extends Error{
     erro=1;    
    }
      
-     
-     
-     
-     
-     
-     
 @Override
 public String getMessage(){
   if (erro==0){
