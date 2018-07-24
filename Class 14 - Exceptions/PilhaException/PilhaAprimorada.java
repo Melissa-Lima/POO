@@ -9,7 +9,7 @@ public class PilhaAprimorada extends PilhaSimples{
 	@Override
 	public void empilha(Object novoItem) throws PilhaException {
 		if (getTopo()==super.getTamanhoMax()-1)
-			throw new PilhaCheiaException(getTamanhoMax(),novoItem());
+			throw new PilhaCheiaException(this.getTamanhoMax(),novoItem());
 		else
 			super.empilha(novoItem);
 	}
