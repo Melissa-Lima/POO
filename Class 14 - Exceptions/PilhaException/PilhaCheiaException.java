@@ -1,4 +1,4 @@
-public class PilhaCheiaException extends Error{
+public class PilhaCheiaException extends RunTimeException{
   
   	int erro;
   
