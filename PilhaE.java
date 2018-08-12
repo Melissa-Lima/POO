@@ -53,7 +53,7 @@ public class PilhaE implements Cloneable{
 	}
 
 
-	/* public PilhaE clone() throws CloneNotSupportedException{ //Copia profunda
+	/* public PilhaE clone() throws CloneNotSupportedException{ //Copia rasa
 		PilhaE pilhaClonada = (PilhaE) super.clone();
 		return (pilhaClonada);
 	}*/
