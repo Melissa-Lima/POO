@@ -1,2 +1,2 @@
 # POO
-Exercícios e prática da discuplina de POO
+Exercícios e prática da disciplina de POO
